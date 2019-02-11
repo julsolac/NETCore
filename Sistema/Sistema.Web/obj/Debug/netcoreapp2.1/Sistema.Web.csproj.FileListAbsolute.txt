@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Proyectos\ASP NET CORE\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.deps.json
 C:\Proyectos\ASP NET CORE\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.runtimeconfig.json
 C:\Proyectos\ASP NET CORE\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.runtimeconfig.dev.json
@@ -17,3 +18,24 @@ C:\Proyectos\ASP NET CORE\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.En
 C:\Proyectos\ASP NET CORE\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Entidades.pdb
 C:\Proyectos\ASP NET CORE\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Datos.pdb
 C:\Proyectos\ASP NET CORE\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.csproj.CopyComplete
+=======
+C:\Proyectos\ASP NET CORE\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.deps.json
+C:\Proyectos\ASP NET CORE\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.runtimeconfig.json
+C:\Proyectos\ASP NET CORE\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.runtimeconfig.dev.json
+C:\Proyectos\ASP NET CORE\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.dll
+C:\Proyectos\ASP NET CORE\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.pdb
+C:\Proyectos\ASP NET CORE\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.csprojAssemblyReference.cache
+C:\Proyectos\ASP NET CORE\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.csproj.CoreCompileInputs.cache
+C:\Proyectos\ASP NET CORE\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorAssemblyInfo.cache
+C:\Proyectos\ASP NET CORE\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorAssemblyInfo.cs
+C:\Proyectos\ASP NET CORE\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.AssemblyInfoInputs.cache
+C:\Proyectos\ASP NET CORE\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.AssemblyInfo.cs
+C:\Proyectos\ASP NET CORE\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorTargetAssemblyInfo.cache
+C:\Proyectos\ASP NET CORE\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.dll
+C:\Proyectos\ASP NET CORE\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.pdb
+C:\Proyectos\ASP NET CORE\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Datos.dll
+C:\Proyectos\ASP NET CORE\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Entidades.dll
+C:\Proyectos\ASP NET CORE\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Entidades.pdb
+C:\Proyectos\ASP NET CORE\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Datos.pdb
+C:\Proyectos\ASP NET CORE\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.csproj.CopyComplete
+>>>>>>> 273299916a0db67885ada9a842706ff34d9a0425

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Proyectos\ASP NET CORE\Sistema\Sistema.Entidades\bin\Debug\netcoreapp2.1\Sistema.Entidades.deps.json
 C:\Proyectos\ASP NET CORE\Sistema\Sistema.Entidades\bin\Debug\netcoreapp2.1\Sistema.Entidades.dll
 C:\Proyectos\ASP NET CORE\Sistema\Sistema.Entidades\bin\Debug\netcoreapp2.1\Sistema.Entidades.pdb
@@ -7,3 +8,14 @@ C:\Proyectos\ASP NET CORE\Sistema\Sistema.Entidades\obj\Debug\netcoreapp2.1\Sist
 C:\Proyectos\ASP NET CORE\Sistema\Sistema.Entidades\obj\Debug\netcoreapp2.1\Sistema.Entidades.AssemblyInfo.cs
 C:\Proyectos\ASP NET CORE\Sistema\Sistema.Entidades\obj\Debug\netcoreapp2.1\Sistema.Entidades.dll
 C:\Proyectos\ASP NET CORE\Sistema\Sistema.Entidades\obj\Debug\netcoreapp2.1\Sistema.Entidades.pdb
+=======
+C:\Proyectos\ASP NET CORE\Sistema\Sistema.Entidades\bin\Debug\netcoreapp2.1\Sistema.Entidades.deps.json
+C:\Proyectos\ASP NET CORE\Sistema\Sistema.Entidades\bin\Debug\netcoreapp2.1\Sistema.Entidades.dll
+C:\Proyectos\ASP NET CORE\Sistema\Sistema.Entidades\bin\Debug\netcoreapp2.1\Sistema.Entidades.pdb
+C:\Proyectos\ASP NET CORE\Sistema\Sistema.Entidades\obj\Debug\netcoreapp2.1\Sistema.Entidades.csprojAssemblyReference.cache
+C:\Proyectos\ASP NET CORE\Sistema\Sistema.Entidades\obj\Debug\netcoreapp2.1\Sistema.Entidades.csproj.CoreCompileInputs.cache
+C:\Proyectos\ASP NET CORE\Sistema\Sistema.Entidades\obj\Debug\netcoreapp2.1\Sistema.Entidades.AssemblyInfoInputs.cache
+C:\Proyectos\ASP NET CORE\Sistema\Sistema.Entidades\obj\Debug\netcoreapp2.1\Sistema.Entidades.AssemblyInfo.cs
+C:\Proyectos\ASP NET CORE\Sistema\Sistema.Entidades\obj\Debug\netcoreapp2.1\Sistema.Entidades.dll
+C:\Proyectos\ASP NET CORE\Sistema\Sistema.Entidades\obj\Debug\netcoreapp2.1\Sistema.Entidades.pdb
+>>>>>>> 273299916a0db67885ada9a842706ff34d9a0425
